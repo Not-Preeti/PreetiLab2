@@ -1,0 +1,7 @@
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\bin\Debug\PreetiLab2.exe.config
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\bin\Debug\PreetiLab2.exe
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\bin\Debug\PreetiLab2.pdb
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\obj\Debug\PreetiLab2.csproj.AssemblyReference.cache
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\obj\Debug\PreetiLab2.csproj.CoreCompileInputs.cache
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\obj\Debug\PreetiLab2.exe
+C:\Users\Preeti\source\repos\PreetiLab2\PreetiLab2\obj\Debug\PreetiLab2.pdb
