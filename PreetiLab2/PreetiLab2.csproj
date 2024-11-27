@@ -48,6 +48,7 @@
     <Compile Include="Employee.cs" />
     <Compile Include="Generics.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="MulticastDelegate.cs" />
     <Compile Include="Namespacemain.cs" />
     <Compile Include="Namespaceone.cs" />
     <Compile Include="Namespacetwo.cs" />

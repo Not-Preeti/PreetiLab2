@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Preeti\\source\\repos\\PreetiLab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C64875D-AE06-47E5-BF1A-379B53CFF361}|PreetiLab2\\PreetiLab2.csproj|c:\\users\\preeti\\source\\repos\\preetilab2\\preetilab2\\virtualmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C64875D-AE06-47E5-BF1A-379B53CFF361}|PreetiLab2\\PreetiLab2.csproj|c:\\users\\preeti\\source\\repos\\preetilab2\\preetilab2\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C64875D-AE06-47E5-BF1A-379B53CFF361}|PreetiLab2\\PreetiLab2.csproj|solutionrelative:preetilab2\\multicastdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C64875D-AE06-47E5-BF1A-379B53CFF361}|PreetiLab2\\PreetiLab2.csproj|C:\\Users\\Preeti\\source\\repos\\PreetiLab2\\preetilab2\\virtualmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C64875D-AE06-47E5-BF1A-379B53CFF361}|PreetiLab2\\PreetiLab2.csproj|solutionrelative:preetilab2\\virtualmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MulticastDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Preeti\\source\\repos\\PreetiLab2\\PreetiLab2\\MulticastDelegate.cs",
+              "RelativeDocumentMoniker": "PreetiLab2\\MulticastDelegate.cs",
+              "ToolTip": "C:\\Users\\Preeti\\source\\repos\\PreetiLab2\\PreetiLab2\\MulticastDelegate.cs",
+              "RelativeToolTip": "PreetiLab2\\MulticastDelegate.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:27:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VirtualMethod.cs",
               "DocumentMoniker": "C:\\Users\\Preeti\\source\\repos\\PreetiLab2\\PreetiLab2\\VirtualMethod.cs",
               "RelativeDocumentMoniker": "PreetiLab2\\VirtualMethod.cs",
@@ -26,8 +43,7 @@
               "RelativeToolTip": "PreetiLab2\\VirtualMethod.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T04:49:17.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T04:49:17.083Z"
             }
           ]
         }
